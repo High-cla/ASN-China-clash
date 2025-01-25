@@ -1,4 +1,4 @@
-with open("IP.China.list", 'r') as f:
+with open("IP.China.txt", 'r') as f:
     iplist = f.readlines()
 
 output = 'payload:\n'
