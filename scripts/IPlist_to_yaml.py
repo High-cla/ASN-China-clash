@@ -3,6 +3,6 @@ with open("IP.China.txt", 'r') as f:
 
 output = 'payload:\n'
 for line in iplist:
-    output += "  - '" + line.strip() + "'\n"
+    output += "  - '" + line.strip() + ",no-resolve'\n"
 with open('IP.China.yaml', 'w') as f:
     f.write(output)
