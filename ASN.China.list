@@ -1,5 +1,5 @@
 # ASN Information in China. (https://github.com/missuo/ASN-China) 
-# Last Updated: UTC 2025-03-11 16:11:23
+# Last Updated: UTC 2025-03-12 16:11:20
 # Made by Vincent, All rights reserved. 
 payload: 
 - IP-ASN,140731,no-resolve # TOHU Public Internet
@@ -27,8 +27,8 @@ payload:
 - IP-ASN,142111,no-resolve # Zhejiang Aiyun Network Technology Co Ltd
 - IP-ASN,146762,no-resolve # NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
 - IP-ASN,7497,no-resolve # Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)
-- IP-ASN,9929,no-resolve # China Netcom Backbone
 - IP-ASN,146834,no-resolve # SiChuan XunYou Network Technologe Limit, co
+- IP-ASN,9929,no-resolve # China Netcom Backbone
 - IP-ASN,146788,no-resolve # China Broadcasting Network Co., Ltd
 - IP-ASN,134578,no-resolve # UNION FU WAH DIGITAL TECHNOLOGY LIMITED
 - IP-ASN,4842,no-resolve # Tianhai InfoTech
@@ -58,9 +58,9 @@ payload:
 - IP-ASN,136958,no-resolve # China Unicom Guangdong IP network
 - IP-ASN,59019,no-resolve # Beijing Kingsoft Cloud Internet Technology Co., Ltd
 - IP-ASN,44421,no-resolve # Yifu Yu
-- IP-ASN,24489,no-resolve # Trans-Eurasia Information Network (TEIN2) - North
 - IP-ASN,24409,no-resolve # China Internet Network Infomation Center
 - IP-ASN,9814,no-resolve # Beijing FibrLINK Networks Co.,Ltd.
+- IP-ASN,24489,no-resolve # Trans-Eurasia Information Network (TEIN2) - North
 - IP-ASN,23911,no-resolve # China Next Generation Internet Beijing IX
 - IP-ASN,23848,no-resolve # Shenzhen Ping An Communication Technology Co.,Ltd
 - IP-ASN,17623,no-resolve # China Unicom Shenzen network
@@ -245,6 +245,7 @@ payload:
 - IP-ASN,137702,no-resolve # Nanjing, Jiangsu Province, P.R.China.
 - IP-ASN,137697,no-resolve # CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.R.China.
 - IP-ASN,137691,no-resolve # CHINATELECOM HEILONGJIANG IDC
+- IP-ASN,136160,no-resolve # Beijing Shijihulian Yuntong Network Technology Co., Ltd.
 - IP-ASN,134761,no-resolve # CHINANET NINGXIA ZHONGWEI IDC
 - IP-ASN,134760,no-resolve # Shijiazhuang IDC network, CHINANET Hebei province
 - IP-ASN,134756,no-resolve # CHINANET Nanjing Jishan IDC network
@@ -406,7 +407,6 @@ payload:
 - IP-ASN,136190,no-resolve # China Telecom DaLi
 - IP-ASN,136189,no-resolve # Opera Software Technology (Beijing) Co., Ltd.
 - IP-ASN,136188,no-resolve # China Telecom Yunnan Diqing MAN
-- IP-ASN,136160,no-resolve # Beijing Shijihulian Yuntong Network Technology Co., Ltd.
 - IP-ASN,135363,no-resolve # Chongqing Fuxuan Information Technology Co., Limited
 - IP-ASN,135089,no-resolve # China Telecom
 - IP-ASN,134810,no-resolve # China Mobile Group JiLin communications corporation
@@ -504,6 +504,7 @@ payload:
 - IP-ASN,24422,no-resolve # Huizhan street, Renqiu city, Hebei, P. R. CHINA
 - IP-ASN,24415,no-resolve # Jiangxi Broadcasting and TV information Network
 - IP-ASN,24376,no-resolve # Yahoo China Datacenter
+- IP-ASN,24372,no-resolve # CERNET2 IX at Harbin Institute of Technology
 - IP-ASN,24371,no-resolve # CERNET2 IX at Jilin University
 - IP-ASN,24370,no-resolve # CERNET2 IX at Dalian University of Technology
 - IP-ASN,24364,no-resolve # CERNET2 IX at Shanghai Jiaotong University
@@ -645,7 +646,6 @@ payload:
 - IP-ASN,38355,no-resolve # ChongQing Broadcast & TV Broadband IP MAN
 - IP-ASN,38323,no-resolve # Meifeng Advertising Co., Ltd.
 - IP-ASN,38272,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,24372,no-resolve # CERNET2 IX at Harbin Institute of Technology
 - IP-ASN,24368,no-resolve # CERNET2 IX at Xiamen University
 - IP-ASN,24367,no-resolve # CERNET2 IX at Zhejiang University
 - IP-ASN,24366,no-resolve # CERNET2 IX at Tongji University
@@ -762,6 +762,7 @@ payload:
 - IP-ASN,197626,no-resolve # XU ZIYAO
 - IP-ASN,197433,no-resolve # XuanMing Liu
 - IP-ASN,18257,no-resolve # ChangZhou Bitcomm Software Technology Co., Limited
+- IP-ASN,153633,no-resolve # KVQNET
 - IP-ASN,153458,no-resolve # Haruzakura Cloud
 - IP-ASN,153376,no-resolve # Jilin Province Brick Business Service Limited
 - IP-ASN,153333,no-resolve # Fu Jiechun
