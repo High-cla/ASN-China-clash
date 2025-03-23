@@ -1,11 +1,11 @@
 # ASN Information in China. (https://github.com/missuo/ASN-China) 
-# Last Updated: UTC 2025-03-22 16:09:16
+# Last Updated: UTC 2025-03-23 16:09:09
 # Made by Vincent, All rights reserved. 
 payload: 
 - IP-ASN,140731,no-resolve # TOHU Public Internet
 - IP-ASN,24429,no-resolve # Zhejiang Taobao Network Co.,Ltd
-- IP-ASN,4134,no-resolve # China Telecom Backbone
 - IP-ASN,132203,no-resolve # Tencent Building, Kejizhongyi Avenue
+- IP-ASN,4134,no-resolve # China Telecom Backbone
 - IP-ASN,45102,no-resolve # Alibaba (US) Technology Co., Ltd.
 - IP-ASN,55967,no-resolve # Beijing Baidu Netcom Science and Technology Co., Ltd.
 - IP-ASN,4837,no-resolve # China Unicom Backbone
@@ -85,7 +85,6 @@ payload:
 - IP-ASN,150173,no-resolve # PoloCloud Computing (Hong Kong) Limited
 - IP-ASN,140726,no-resolve # UNICOM AnHui province network
 - IP-ASN,138421,no-resolve # China Unicom
-- IP-ASN,9812,no-resolve # Oriental Cable Network Co., Ltd.
 - IP-ASN,9809,no-resolve # SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.
 - IP-ASN,63646,no-resolve # Beijing Xiaoju Science and Technology Co., Ltd.
 - IP-ASN,63641,no-resolve # Mega Vantage Information Consulting Co., Ltd.
@@ -116,6 +115,7 @@ payload:
 - IP-ASN,134773,no-resolve # CHINANET Guangdong province Guangzhou MAN network
 - IP-ASN,133219,no-resolve # NewMedia Express Pte Ltd
 - IP-ASN,133119,no-resolve # China Unicom IP network
+- IP-ASN,9812,no-resolve # Oriental Cable Network Co., Ltd.
 - IP-ASN,9394,no-resolve # China TieTong Telecommunications Corporation
 - IP-ASN,63617,no-resolve # McKinsey & Consulting Company Inc. Shanghai
 - IP-ASN,59083,no-resolve # Shanghai Kuanhui Tech. Co.,ltd
@@ -270,7 +270,7 @@ payload:
 - IP-ASN,7640,no-resolve # China International Trust & Investment Corporation Management Information Center
 - IP-ASN,7586,no-resolve # Cloudfort IT
 - IP-ASN,63838,no-resolve # China Telecom Hengyang
-- IP-ASN,63835,no-resolve # CT HUNAN CHANGSHA IDC
+- IP-ASN,63835,no-resolve # China Telecom HuNan Changsha IDC
 - IP-ASN,63722,no-resolve # Hodo Telecom Co,Ltd.
 - IP-ASN,63718,no-resolve # Hangzhou YouYun Technology Co., Ltd.
 - IP-ASN,63695,no-resolve # WeiYi Network Technology Co., Ltd
@@ -445,7 +445,6 @@ payload:
 - IP-ASN,131486,no-resolve # Beijing Jingdong 360 Degree E-commerce Co., Ltd.
 - IP-ASN,131325,no-resolve # China Telecom KunMing
 - IP-ASN,9401,no-resolve # National Library of China
-- IP-ASN,64021,no-resolve # Network-Transit
 - IP-ASN,63727,no-resolve # Huawei
 - IP-ASN,63719,no-resolve # Gansu Province Radio and Television Network Co., Ltd.
 - IP-ASN,63704,no-resolve # Guizhou provincial radio and television information Network Inc
@@ -631,7 +630,6 @@ payload:
 - IP-ASN,56004,no-resolve # Information Center of Shanghai Municipal Education Commission
 - IP-ASN,55962,no-resolve # Beijing Kuaishou Technology Co., Ltd.
 - IP-ASN,55641,no-resolve # Changping District, Beijing
-- IP-ASN,49904,no-resolve # Xiaodong Qi
 - IP-ASN,49575,no-resolve # Dong Ran Yang
 - IP-ASN,45576,no-resolve # Tsinghua University
 - IP-ASN,45275,no-resolve # BII Group Holding Ltd.
@@ -4955,6 +4953,7 @@ payload:
 - IP-ASN,142105,no-resolve # China Education and Research Network (CERNET)
 - IP-ASN,142104,no-resolve # China Education and Research Network (CERNET)
 - IP-ASN,142103,no-resolve # China Education and Research Network (CERNET)
+- IP-ASN,142102,no-resolve # China Education and Research Network (CERNET)
 - IP-ASN,142101,no-resolve # China Education and Research Network (CERNET)
 - IP-ASN,142100,no-resolve # China Education and Research Network (CERNET)
 - IP-ASN,142099,no-resolve # China Education and Research Network (CERNET)
