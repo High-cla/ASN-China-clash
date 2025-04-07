@@ -1,5 +1,5 @@
 # ASN Information in China. (https://github.com/missuo/ASN-China) 
-# Last Updated: UTC 2025-04-06 16:09:20
+# Last Updated: UTC 2025-04-07 16:10:38
 # Made by Vincent, All rights reserved. 
 payload: 
 - IP-ASN,140731,no-resolve # TOHU Public Internet
@@ -21,8 +21,8 @@ payload:
 - IP-ASN,4812,no-resolve # China Telecom (Group)
 - IP-ASN,133865,no-resolve # Beijing IQIYI Science & Technology Co., Ltd.
 - IP-ASN,58879,no-resolve # Shanghai ruisu network technology co.,LTD
-- IP-ASN,56048,no-resolve # China Mobile Communicaitons Corporation
 - IP-ASN,9808,no-resolve # China Mobile Communications Group Co., Ltd.
+- IP-ASN,56048,no-resolve # China Mobile Communicaitons Corporation
 - IP-ASN,139799,no-resolve # Beijing Dajia Internet Information Technology Co., Ltd.
 - IP-ASN,142111,no-resolve # Zhejiang Aiyun Network Technology Co Ltd
 - IP-ASN,24400,no-resolve # Shanghai Mobile Communications Co.,Ltd.
@@ -150,7 +150,6 @@ payload:
 - IP-ASN,135629,no-resolve # Ningxia West Cloud Data Technology Co.Ltd.
 - IP-ASN,135432,no-resolve # Visa Information Technology Beijing Co. Ltd.
 - IP-ASN,133119,no-resolve # China Unicom IP network
-- IP-ASN,131578,no-resolve # Beijing Foreign Studies University
 - IP-ASN,131574,no-resolve # Beijing Haiyu Technology Co. Ltd..
 - IP-ASN,9818,no-resolve # Internet Finance Laboratory
 - IP-ASN,9811,no-resolve # Development & Research Center of State Council Net.
@@ -219,6 +218,7 @@ payload:
 - IP-ASN,17799,no-resolve # asn for Liaoning Provincial Net of CT
 - IP-ASN,17739,no-resolve # Shanghai Telecom Haplink Network Co., Ltd
 - IP-ASN,17638,no-resolve # ASN for TIANJIN Provincial Net of CT
+- IP-ASN,153725,no-resolve # Tiannuonaite Wangluokeji (Hangzhou) Co Ltd
 - IP-ASN,152092,no-resolve # Henan Angran Cloud Computing Technology Co. Ltd
 - IP-ASN,151397,no-resolve # China Telecom
 - IP-ASN,151313,no-resolve # Pacific Insurance Technology Co., Ltd
@@ -260,6 +260,7 @@ payload:
 - IP-ASN,133774,no-resolve # China Telecom Fujian Fuzhou IDC
 - IP-ASN,133475,no-resolve # New York University ASN
 - IP-ASN,132225,no-resolve # CHINATELECOM QINGHAI 5G NETWORK
+- IP-ASN,131578,no-resolve # Beijing Foreign Studies University
 - IP-ASN,131285,no-resolve # CHINATELECOM Hubei province Shengji 5G network
 - IP-ASN,9939,no-resolve # DYXNET of Shenzhen Communication Co., Ltd.
 - IP-ASN,9803,no-resolve # Beijing Jingxun Public Information Technology Co., Ltd
@@ -327,7 +328,6 @@ payload:
 - IP-ASN,17776,no-resolve # China Enterprise ICT Solutions Limited
 - IP-ASN,17633,no-resolve # ASN for Shandong Provincial Net of CT
 - IP-ASN,17430,no-resolve # 5F Greatwall Bldg., A38 Xueyuan Road Haidian District,Beijing
-- IP-ASN,153725,no-resolve # Tiannuonaite Wangluokeji (Hangzhou) Co Ltd
 - IP-ASN,152186,no-resolve # Mintel Holding Limited
 - IP-ASN,151823,no-resolve # China Telecom
 - IP-ASN,151464,no-resolve # Shanghai Luogu Network Technology Co., Ltd.
