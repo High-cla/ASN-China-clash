@@ -1,5 +1,5 @@
 # ASN Information in China. (https://github.com/missuo/ASN-China) 
-# Last Updated: UTC 2025-04-11 16:11:11
+# Last Updated: UTC 2025-04-12 16:09:29
 # Made by Vincent, All rights reserved. 
 payload: 
 - IP-ASN,140731,no-resolve # TOHU Public Internet
@@ -20,8 +20,8 @@ payload:
 - IP-ASN,17621,no-resolve # China Unicom Shanghai network
 - IP-ASN,4812,no-resolve # China Telecom (Group)
 - IP-ASN,133865,no-resolve # Beijing IQIYI Science & Technology Co., Ltd.
-- IP-ASN,139799,no-resolve # Beijing Dajia Internet Information Technology Co., Ltd.
 - IP-ASN,58879,no-resolve # Shanghai ruisu network technology co.,LTD
+- IP-ASN,139799,no-resolve # Beijing Dajia Internet Information Technology Co., Ltd.
 - IP-ASN,9808,no-resolve # China Mobile Communications Group Co., Ltd.
 - IP-ASN,56048,no-resolve # China Mobile Communicaitons Corporation
 - IP-ASN,142111,no-resolve # Zhejiang Aiyun Network Technology Co Ltd
@@ -151,7 +151,6 @@ payload:
 - IP-ASN,135629,no-resolve # Ningxia West Cloud Data Technology Co.Ltd.
 - IP-ASN,135432,no-resolve # Visa Information Technology Beijing Co. Ltd.
 - IP-ASN,133119,no-resolve # China Unicom IP network
-- IP-ASN,131578,no-resolve # Beijing Foreign Studies University
 - IP-ASN,131574,no-resolve # Beijing Haiyu Technology Co. Ltd..
 - IP-ASN,9818,no-resolve # Internet Finance Laboratory
 - IP-ASN,9811,no-resolve # Development & Research Center of State Council Net.
@@ -257,6 +256,7 @@ payload:
 - IP-ASN,133774,no-resolve # China Telecom Fujian Fuzhou IDC
 - IP-ASN,133475,no-resolve # New York University ASN
 - IP-ASN,132225,no-resolve # CHINATELECOM QINGHAI 5G NETWORK
+- IP-ASN,131578,no-resolve # Beijing Foreign Studies University
 - IP-ASN,131285,no-resolve # CHINATELECOM Hubei province Shengji 5G network
 - IP-ASN,9939,no-resolve # DYXNET of Shenzhen Communication Co., Ltd.
 - IP-ASN,9803,no-resolve # Beijing Jingxun Public Information Technology Co., Ltd
@@ -542,6 +542,7 @@ payload:
 - IP-ASN,150374,no-resolve # Jiang Men Shi Tian Da Cloud Co. Ltd
 - IP-ASN,149648,no-resolve # APNIC ASN block
 - IP-ASN,149511,no-resolve # Yamu Technologies Co., Ltd.
+- IP-ASN,149304,no-resolve # Shenzhen Qiyi Network Technology Co., Ltd.
 - IP-ASN,147008,no-resolve # Shenzhen Dianjiang Technology Co Ltd
 - IP-ASN,146841,no-resolve # Tianjin GiantDC Data Technology Co.Ltd
 - IP-ASN,146838,no-resolve # China Broadcasting TV Net
