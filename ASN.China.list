@@ -1,5 +1,5 @@
 # ASN Information in China. (https://github.com/missuo/ASN-China) 
-# Last Updated: UTC 2025-04-16 16:11:56
+# Last Updated: UTC 2025-04-17 16:11:21
 # Made by Vincent, All rights reserved. 
 payload: 
 - IP-ASN,140731,no-resolve # TOHU Public Internet
@@ -12,8 +12,8 @@ payload:
 - IP-ASN,4809,no-resolve # China Telecom Next Generation Carrier Network
 - IP-ASN,4808,no-resolve # China Unicom Beijing Province Network
 - IP-ASN,209650,no-resolve # Wu Zhiyuan
-- IP-ASN,10111,no-resolve # Zeofast Network
 - IP-ASN,4847,no-resolve # China Networks Inter-Exchange
+- IP-ASN,10111,no-resolve # Zeofast Network
 - IP-ASN,212793,no-resolve # Xiwei Ye
 - IP-ASN,63631,no-resolve # Guangdong Cloudbase Technology Co., Ltd.
 - IP-ASN,4538,no-resolve # China Education and Research Network Center
@@ -26,8 +26,8 @@ payload:
 - IP-ASN,56048,no-resolve # China Mobile Communicaitons Corporation
 - IP-ASN,142111,no-resolve # Zhejiang Aiyun Network Technology Co Ltd
 - IP-ASN,24400,no-resolve # Shanghai Mobile Communications Co.,Ltd.
-- IP-ASN,7497,no-resolve # Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)
 - IP-ASN,137897,no-resolve # PAN-LIAN TECHNOLOGY CO., LIMITED
+- IP-ASN,7497,no-resolve # Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)
 - IP-ASN,134578,no-resolve # UNION FU WAH DIGITAL TECHNOLOGY LIMITED
 - IP-ASN,9929,no-resolve # China Netcom Backbone
 - IP-ASN,146788,no-resolve # China Broadcasting Network Co., Ltd
@@ -41,8 +41,8 @@ payload:
 - IP-ASN,4811,no-resolve # China Telecom (Group)
 - IP-ASN,45090,no-resolve # Shenzhen Tencent Computer Systems Company Limited
 - IP-ASN,4842,no-resolve # Tianhai InfoTech
-- IP-ASN,24490,no-resolve # Trans-Eurasia Information Network (TEIN2) - SG
 - IP-ASN,55990,no-resolve # Huawei Cloud Service data center
+- IP-ASN,24490,no-resolve # Trans-Eurasia Information Network (TEIN2) - SG
 - IP-ASN,9384,no-resolve # MIKU NETWORK LIMITED
 - IP-ASN,146762,no-resolve # NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
 - IP-ASN,135426,no-resolve # ZTE Corporation
@@ -55,13 +55,13 @@ payload:
 - IP-ASN,38283,no-resolve # CHINANET SiChuan Telecom Internet Data Center
 - IP-ASN,24489,no-resolve # Trans-Eurasia Information Network (TEIN2) - North
 - IP-ASN,24409,no-resolve # China Internet Network Infomation Center
+- IP-ASN,139888,no-resolve # Tang Zhuo
 - IP-ASN,136958,no-resolve # China Unicom Guangdong IP network
 - IP-ASN,9814,no-resolve # Beijing FibrLINK Networks Co.,Ltd.
 - IP-ASN,59019,no-resolve # Beijing Kingsoft Cloud Internet Technology Co., Ltd
 - IP-ASN,44421,no-resolve # Yifu Yu
 - IP-ASN,23848,no-resolve # Shenzhen Ping An Communication Technology Co.,Ltd
 - IP-ASN,17623,no-resolve # China Unicom Shenzen network
-- IP-ASN,139888,no-resolve # Tang Zhuo
 - IP-ASN,58461,no-resolve # China Telecom HangZhou IDC
 - IP-ASN,38365,no-resolve # Beijing Baidu Netcom Science and Technology Co., Ltd.
 - IP-ASN,23650,no-resolve # AS Number for CHINANET jiangsu province backbone
@@ -81,7 +81,7 @@ payload:
 - IP-ASN,24406,no-resolve # China Internet Network Infomation Center
 - IP-ASN,23911,no-resolve # China Next Generation Internet Beijing IX
 - IP-ASN,150173,no-resolve # PoloCloud Computing (Hong Kong) Limited
-- IP-ASN,136173,no-resolve # Quanzhou Yuntun Network Technology Co., Ltd.
+- IP-ASN,9812,no-resolve # Oriental Cable Network Co., Ltd.
 - IP-ASN,9809,no-resolve # SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.
 - IP-ASN,63646,no-resolve # Beijing Xiaoju Science and Technology Co., Ltd.
 - IP-ASN,58850,no-resolve # Bloomberg Financial Information (Beijing) Co Ltd
@@ -109,7 +109,6 @@ payload:
 - IP-ASN,137735,no-resolve # China Construction Bank
 - IP-ASN,134773,no-resolve # CHINANET Guangdong province Guangzhou MAN network
 - IP-ASN,133219,no-resolve # NewMedia Express Pte Ltd
-- IP-ASN,9812,no-resolve # Oriental Cable Network Co., Ltd.
 - IP-ASN,9394,no-resolve # China TieTong Telecommunications Corporation
 - IP-ASN,63641,no-resolve # Mega Vantage Information Consulting Co., Ltd.
 - IP-ASN,63617,no-resolve # McKinsey & Consulting Company Inc. Shanghai
@@ -146,10 +145,12 @@ payload:
 - IP-ASN,136198,no-resolve # CHINANET Guangdong province Yuexi MAN network
 - IP-ASN,136195,no-resolve # China Telecom Dehong
 - IP-ASN,136180,no-resolve # Beijing Tiantexin Tech. Co., Ltd.
+- IP-ASN,136173,no-resolve # Quanzhou Yuntun Network Technology Co., Ltd.
 - IP-ASN,135883,no-resolve # Ba Cai Yun (Beijing) Network Technology Co., Ltd
 - IP-ASN,135629,no-resolve # Ningxia West Cloud Data Technology Co.Ltd.
 - IP-ASN,135432,no-resolve # Visa Information Technology Beijing Co. Ltd.
 - IP-ASN,133119,no-resolve # China Unicom IP network
+- IP-ASN,131578,no-resolve # Beijing Foreign Studies University
 - IP-ASN,131574,no-resolve # Beijing Haiyu Technology Co. Ltd..
 - IP-ASN,9818,no-resolve # Internet Finance Laboratory
 - IP-ASN,9811,no-resolve # Development & Research Center of State Council Net.
@@ -256,7 +257,6 @@ payload:
 - IP-ASN,133774,no-resolve # China Telecom Fujian Fuzhou IDC
 - IP-ASN,133475,no-resolve # New York University ASN
 - IP-ASN,132225,no-resolve # CHINATELECOM QINGHAI 5G NETWORK
-- IP-ASN,131578,no-resolve # Beijing Foreign Studies University
 - IP-ASN,131285,no-resolve # CHINATELECOM Hubei province Shengji 5G network
 - IP-ASN,9939,no-resolve # DYXNET of Shenzhen Communication Co., Ltd.
 - IP-ASN,9803,no-resolve # Beijing Jingxun Public Information Technology Co., Ltd
@@ -490,6 +490,7 @@ payload:
 - IP-ASN,38336,no-resolve # Beijing Linkever Technology Co.,Ltd
 - IP-ASN,38255,no-resolve # China Education and Research Network (CERNET)
 - IP-ASN,38238,no-resolve # Societe Generale (China) Limited
+- IP-ASN,37968,no-resolve # ShenZhen QianHai New-Type Internet Exchange Point Co.,Ltd
 - IP-ASN,37936,no-resolve # 15F,Ideal Plaza No.58 Bei Si Huan Xi Road
 - IP-ASN,24445,no-resolve # Henan Mobile Communications Co.,Ltd
 - IP-ASN,24423,no-resolve # No. 207 Hualin Road, Fuzhou, Fujian, China
@@ -521,7 +522,6 @@ payload:
 - IP-ASN,214053,no-resolve # Xiamen Huikuai Network Technology Co., Ltd.
 - IP-ASN,213769,no-resolve # wang guanwei
 - IP-ASN,211843,no-resolve # Nanjing Tiankai Information Technology Co.Ltd.
-- IP-ASN,211265,no-resolve # GUI JIANG
 - IP-ASN,211051,no-resolve # Dazhong Technology Network Studio of Tieling County
 - IP-ASN,209574,no-resolve # Xiao Tan
 - IP-ASN,205610,no-resolve # Huanjie Zhu
@@ -730,7 +730,6 @@ payload:
 - IP-ASN,207338,no-resolve # Zhang Zongyu
 - IP-ASN,206843,no-resolve # Jikai Ren
 - IP-ASN,206729,no-resolve # Vincent Yang
-- IP-ASN,205825,no-resolve # XINYU-XIAO
 - IP-ASN,205794,no-resolve # JINZE YANG
 - IP-ASN,205618,no-resolve # Yichen Lu
 - IP-ASN,205603,no-resolve # Xinyu Wei
@@ -747,7 +746,6 @@ payload:
 - IP-ASN,200853,no-resolve # Yifan Li
 - IP-ASN,200809,no-resolve # QUN LIN
 - IP-ASN,200789,no-resolve # Wei Teng LIn
-- IP-ASN,200592,no-resolve # Junyang Liang
 - IP-ASN,200545,no-resolve # Liu Quanhao
 - IP-ASN,200536,no-resolve # Bo Xu
 - IP-ASN,200268,no-resolve # Haihan Chen
@@ -852,7 +850,6 @@ payload:
 - IP-ASN,150184,no-resolve # Chen Chi
 - IP-ASN,150141,no-resolve # Wang Jiacheng
 - IP-ASN,149510,no-resolve # Feng Libo
-- IP-ASN,149163,no-resolve # Yichang Shuangsen Network Technology Ltd
 - IP-ASN,146816,no-resolve # Guizhou Moutai Winery (Group) Co., Ltd.
 - IP-ASN,146804,no-resolve # China Internet Network Information Center
 - IP-ASN,146745,no-resolve # China Education and Research Network (CERNET)
@@ -5078,7 +5075,6 @@ payload:
 - IP-ASN,140366,no-resolve # CHINATELECOM Hunan province Hengyang 5G network
 - IP-ASN,140365,no-resolve # CHINATELECOM Hunan province Changsha 5G network
 - IP-ASN,140364,no-resolve # CHINATELECOM Hunan province 5G Core Network 5G network
-- IP-ASN,140363,no-resolve # Fuzhou Zhongxu Network Technology Co. Ltd.
 - IP-ASN,140361,no-resolve # CHINATELECOM YUNNAN ZHAOTONG 5G NETWORK
 - IP-ASN,140360,no-resolve # CHINATELECOM YUNNAN YUXI 5G NETWORK
 - IP-ASN,140359,no-resolve # CHINATELECOM Yunnan province Wenshan 5G network
@@ -5197,7 +5193,6 @@ payload:
 - IP-ASN,136535,no-resolve # Yang Mengqi
 - IP-ASN,134993,no-resolve # APNIC ASN block
 - IP-ASN,134775,no-resolve # CHINANET Guangdong province Zhusanjiao MAN network
-- IP-ASN,134708,no-resolve # TLY NETWORKS S.A.
 - IP-ASN,134488,no-resolve # CTJ's Global Network
 - IP-ASN,134477,no-resolve # Shaoxing Junruiyunjisuan Co Ltd
 - IP-ASN,134169,no-resolve # CERNEWTECH (Beijing) co.,LTD
