@@ -1,5 +1,5 @@
 # ASN Information in China. (https://github.com/missuo/ASN-China) 
-# Last Updated: UTC 2025-05-06 16:11:32
+# Last Updated: UTC 2025-05-07 16:12:05
 # Made by Vincent, All rights reserved. 
 payload: 
 - IP-ASN,140731,no-resolve # TOHU Public Internet
@@ -329,7 +329,6 @@ payload:
 - IP-ASN,131558,no-resolve # Wal-mart (China) Investment Co., Ltd.
 - IP-ASN,131495,no-resolve # Beijing nine cloud infinite network technology co., LTD
 - IP-ASN,131285,no-resolve # CHINATELECOM Hubei province Shengji 5G network
-- IP-ASN,131192,no-resolve # APNIC 32-bit ASN block
 - IP-ASN,10206,no-resolve # China Unicom Zhongwei Cloud
 - IP-ASN,9803,no-resolve # Beijing Jingxun Public Information Technology Co., Ltd
 - IP-ASN,9802,no-resolve # Abitcool(China) Inc.
@@ -679,6 +678,7 @@ payload:
 - IP-ASN,215007,no-resolve # BOZHAN LIANG
 - IP-ASN,214963,no-resolve # Puhe You
 - IP-ASN,214921,no-resolve # Yisong Wang
+- IP-ASN,214911,no-resolve # Li Hang
 - IP-ASN,214899,no-resolve # Ye Liliang
 - IP-ASN,214871,no-resolve # Jiping Yu
 - IP-ASN,214843,no-resolve # Haoyu Yang
