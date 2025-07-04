@@ -1,5 +1,5 @@
 # ASN Information in China. (https://github.com/missuo/ASN-China) 
-# Last Updated: UTC 2025-07-03 16:12:26
+# Last Updated: UTC 2025-07-04 16:11:34
 # Made by Vincent, All rights reserved. 
 payload: 
 - IP-ASN,140731,no-resolve # TOHU Public Internet
@@ -8,17 +8,17 @@ payload:
 - IP-ASN,45102,no-resolve # Alibaba (US) Technology Co., Ltd.
 - IP-ASN,4134,no-resolve # China Telecom Backbone
 - IP-ASN,55967,no-resolve # Beijing Baidu Netcom Science and Technology Co., Ltd.
-- IP-ASN,4837,no-resolve # China Unicom Backbone
 - IP-ASN,10111,no-resolve # Zeofast Network
-- IP-ASN,153725,no-resolve # Tenonet (Hangzhou) Co Ltd
+- IP-ASN,4837,no-resolve # China Unicom Backbone
 - IP-ASN,4809,no-resolve # China Telecom Next Generation Carrier Network
+- IP-ASN,153725,no-resolve # Tenonet (Hangzhou) Co Ltd
 - IP-ASN,4808,no-resolve # China Unicom Beijing Province Network
 - IP-ASN,209650,no-resolve # Wu Zhiyuan
 - IP-ASN,4847,no-resolve # China Networks Inter-Exchange
 - IP-ASN,63631,no-resolve # Guangdong Cloudbase Technology Co., Ltd.
 - IP-ASN,139799,no-resolve # Beijing Dajia Internet Information Technology Co., Ltd.
-- IP-ASN,212793,no-resolve # Xiwei Ye
 - IP-ASN,146762,no-resolve # NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
+- IP-ASN,212793,no-resolve # Xiwei Ye
 - IP-ASN,4538,no-resolve # China Education and Research Network Center
 - IP-ASN,17621,no-resolve # China Unicom Shanghai network
 - IP-ASN,9808,no-resolve # China Mobile Communications Group Co., Ltd.
@@ -40,9 +40,9 @@ payload:
 - IP-ASN,146834,no-resolve # SiChuan XunYou Network Technologe Limit, co
 - IP-ASN,37963,no-resolve # Hangzhou Alibaba Advertising Co.,Ltd.
 - IP-ASN,45090,no-resolve # Shenzhen Tencent Computer Systems Company Limited
-- IP-ASN,137718,no-resolve # Beijing Volcano Engine Technology Co., Ltd.
 - IP-ASN,55990,no-resolve # Huawei Cloud Service data center
 - IP-ASN,4811,no-resolve # China Telecom (Group)
+- IP-ASN,137718,no-resolve # Beijing Volcano Engine Technology Co., Ltd.
 - IP-ASN,135426,no-resolve # ZTE Corporation
 - IP-ASN,9384,no-resolve # MIKU NETWORK LIMITED
 - IP-ASN,58879,no-resolve # Shanghai ruisu network technology co.,LTD
@@ -54,16 +54,16 @@ payload:
 - IP-ASN,58466,no-resolve # CHINANET Guangdong province network
 - IP-ASN,38365,no-resolve # Beijing Baidu Netcom Science and Technology Co., Ltd.
 - IP-ASN,38283,no-resolve # CHINANET SiChuan Telecom Internet Data Center
+- IP-ASN,24489,no-resolve # Trans-Eurasia Information Network (TEIN2) - North
 - IP-ASN,24151,no-resolve # China Internet Network Infomation Center
 - IP-ASN,136958,no-resolve # China Unicom Guangdong IP network
 - IP-ASN,10212,no-resolve # China Enterprise ICT Solutions Limited
 - IP-ASN,56046,no-resolve # China Mobile communications corporation
-- IP-ASN,24489,no-resolve # Trans-Eurasia Information Network (TEIN2) - North
 - IP-ASN,9814,no-resolve # Beijing FibrLINK Networks Co.,Ltd.
-- IP-ASN,42962,no-resolve # CoreLink Network
 - IP-ASN,24409,no-resolve # China Internet Network Infomation Center
 - IP-ASN,59019,no-resolve # Beijing Kingsoft Cloud Internet Technology Co., Ltd
 - IP-ASN,55992,no-resolve # Beijing Qihu Technology Company Limited
+- IP-ASN,42962,no-resolve # CoreLink Network
 - IP-ASN,24413,no-resolve # 263 Shanghai Communications Ltd.
 - IP-ASN,24406,no-resolve # China Internet Network Infomation Center
 - IP-ASN,23848,no-resolve # Shenzhen Ping An Communication Technology Co.,Ltd
@@ -73,7 +73,6 @@ payload:
 - IP-ASN,136237,no-resolve # Shuangyu Communication Technology co.,Ltd.
 - IP-ASN,133219,no-resolve # NewMedia Express Pte Ltd
 - IP-ASN,9812,no-resolve # Oriental Cable Network Co., Ltd.
-- IP-ASN,9394,no-resolve # China TieTong Telecommunications Corporation
 - IP-ASN,63646,no-resolve # Beijing Xiaoju Science and Technology Co., Ltd.
 - IP-ASN,59078,no-resolve # Yunify Technologies Inc.
 - IP-ASN,58850,no-resolve # Bloomberg Financial Information (Beijing) Co Ltd
@@ -88,6 +87,7 @@ payload:
 - IP-ASN,136173,no-resolve # Quanzhou Yuntun Network Technology Co., Ltd.
 - IP-ASN,134774,no-resolve # CHINANET Guangdong province Shenzhen MAN network
 - IP-ASN,9809,no-resolve # SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.
+- IP-ASN,9394,no-resolve # China TieTong Telecommunications Corporation
 - IP-ASN,63648,no-resolve # Beijing Xiaoju Science and Technology Co., Ltd.
 - IP-ASN,63641,no-resolve # Mega Vantage Information Consulting Co., Ltd.
 - IP-ASN,58593,no-resolve # Shanghai Blue Cloud Technology Co.,Ltd
@@ -176,13 +176,14 @@ payload:
 - IP-ASN,209218,no-resolve # Yang Qi
 - IP-ASN,205651,no-resolve # Hao Qiao
 - IP-ASN,199392,no-resolve # SHIZHENG NIE
+- IP-ASN,199310,no-resolve # XIN BING XIAN
 - IP-ASN,18245,no-resolve # CNNIC
 - IP-ASN,18239,no-resolve # NO.11 Xi San Huan Zhong Road,Beijing
 - IP-ASN,18118,no-resolve # CITIC Networks Management Co.,Ltd.
 - IP-ASN,17969,no-resolve # ChongQing Broadcast & TV Transfer Network Co. Ltd
 - IP-ASN,17781,no-resolve # XINHUA NEWS AGENCY
 - IP-ASN,17638,no-resolve # ASN for TIANJIN Provincial Net of CT
-- IP-ASN,153911,no-resolve # APNIC ASN block
+- IP-ASN,153911,no-resolve # DuoTu Cloud
 - IP-ASN,152186,no-resolve # Mintel Holding Limited
 - IP-ASN,151397,no-resolve # China Telecom
 - IP-ASN,148981,no-resolve # China Telecom
@@ -206,6 +207,7 @@ payload:
 - IP-ASN,133952,no-resolve # Zhengzhou longling technology ltd.
 - IP-ASN,133475,no-resolve # New York University ASN
 - IP-ASN,133119,no-resolve # China Unicom IP network
+- IP-ASN,131578,no-resolve # Beijing Foreign Studies University
 - IP-ASN,131574,no-resolve # Beijing Haiyu Technology Co. Ltd..
 - IP-ASN,9939,no-resolve # DYXNET of Shenzhen Communication Co., Ltd.
 - IP-ASN,9810,no-resolve # Beijing Times Netstar Technology Co.,Ltd
@@ -274,7 +276,6 @@ payload:
 - IP-ASN,213404,no-resolve # Suzhou Yesong Information Technology Co., Ltd.
 - IP-ASN,212371,no-resolve # Huizhou HuiGu CloudTech Co., Ltd.
 - IP-ASN,211051,no-resolve # Dazhong Technology Network Studio of Tieling County
-- IP-ASN,199310,no-resolve # XIN BING XIAN
 - IP-ASN,17799,no-resolve # asn for Liaoning Provincial Net of CT
 - IP-ASN,17739,no-resolve # Shanghai Telecom Haplink Network Co., Ltd
 - IP-ASN,152920,no-resolve # Zhao Chenglin
@@ -349,7 +350,6 @@ payload:
 - IP-ASN,132536,no-resolve # China Telecom
 - IP-ASN,132525,no-resolve # HeiLongJiang Mobile Communication Company Limited
 - IP-ASN,132225,no-resolve # China Telecom
-- IP-ASN,131578,no-resolve # Beijing Foreign Studies University
 - IP-ASN,131562,no-resolve # HUNAN CATV Network Group CO.,LTD.
 - IP-ASN,131558,no-resolve # Wal-mart (China) Investment Co., Ltd.
 - IP-ASN,131536,no-resolve # Shanghai Great Wall Broadband Network Service Co., Ltd.
@@ -877,509 +877,509 @@ payload:
 - IP-ASN,150141,no-resolve # Wang Jiacheng
 - IP-ASN,149510,no-resolve # Feng Libo
 - IP-ASN,146816,no-resolve # Guizhou Moutai Winery (Group) Co., Ltd.
-- IP-ASN,146745,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146744,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146743,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146742,no-resolve # China Education and Research Network (CERNET)
+- IP-ASN,146745,no-resolve # APNIC ASN block
+- IP-ASN,146744,no-resolve # APNIC ASN block
+- IP-ASN,146743,no-resolve # APNIC ASN block
+- IP-ASN,146742,no-resolve # APNIC ASN block
 - IP-ASN,146741,no-resolve # APNIC ASN block
-- IP-ASN,146740,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146739,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146738,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146737,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146736,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146735,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146734,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146733,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146732,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146731,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146730,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146729,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146728,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146727,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146726,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146725,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146724,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146723,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146722,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146721,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146720,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146719,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146718,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146717,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146716,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146715,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146714,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146713,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146712,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146711,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146710,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146709,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146708,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146707,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146706,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146705,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146704,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146703,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146702,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146701,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146700,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146699,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146698,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146697,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146696,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146695,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146694,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146693,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146692,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146691,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146690,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146689,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146688,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146687,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146686,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146685,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146684,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146683,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146682,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146681,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146680,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146679,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146678,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146677,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146676,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146675,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146674,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146673,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146672,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146671,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146670,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146669,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146668,no-resolve # China Education and Research Network (CERNET)
+- IP-ASN,146740,no-resolve # APNIC ASN block
+- IP-ASN,146739,no-resolve # APNIC ASN block
+- IP-ASN,146738,no-resolve # APNIC ASN block
+- IP-ASN,146737,no-resolve # APNIC ASN block
+- IP-ASN,146736,no-resolve # APNIC ASN block
+- IP-ASN,146735,no-resolve # APNIC ASN block
+- IP-ASN,146734,no-resolve # APNIC ASN block
+- IP-ASN,146733,no-resolve # APNIC ASN block
+- IP-ASN,146732,no-resolve # APNIC ASN block
+- IP-ASN,146731,no-resolve # APNIC ASN block
+- IP-ASN,146730,no-resolve # APNIC ASN block
+- IP-ASN,146729,no-resolve # APNIC ASN block
+- IP-ASN,146728,no-resolve # APNIC ASN block
+- IP-ASN,146727,no-resolve # APNIC ASN block
+- IP-ASN,146726,no-resolve # APNIC ASN block
+- IP-ASN,146725,no-resolve # APNIC ASN block
+- IP-ASN,146724,no-resolve # APNIC ASN block
+- IP-ASN,146723,no-resolve # APNIC ASN block
+- IP-ASN,146722,no-resolve # APNIC ASN block
+- IP-ASN,146721,no-resolve # APNIC ASN block
+- IP-ASN,146720,no-resolve # APNIC ASN block
+- IP-ASN,146719,no-resolve # APNIC ASN block
+- IP-ASN,146718,no-resolve # APNIC ASN block
+- IP-ASN,146717,no-resolve # APNIC ASN block
+- IP-ASN,146716,no-resolve # APNIC ASN block
+- IP-ASN,146715,no-resolve # APNIC ASN block
+- IP-ASN,146714,no-resolve # APNIC ASN block
+- IP-ASN,146713,no-resolve # APNIC ASN block
+- IP-ASN,146712,no-resolve # APNIC ASN block
+- IP-ASN,146711,no-resolve # APNIC ASN block
+- IP-ASN,146710,no-resolve # APNIC ASN block
+- IP-ASN,146709,no-resolve # APNIC ASN block
+- IP-ASN,146708,no-resolve # APNIC ASN block
+- IP-ASN,146707,no-resolve # APNIC ASN block
+- IP-ASN,146706,no-resolve # APNIC ASN block
+- IP-ASN,146705,no-resolve # APNIC ASN block
+- IP-ASN,146704,no-resolve # APNIC ASN block
+- IP-ASN,146703,no-resolve # APNIC ASN block
+- IP-ASN,146702,no-resolve # APNIC ASN block
+- IP-ASN,146701,no-resolve # APNIC ASN block
+- IP-ASN,146700,no-resolve # APNIC ASN block
+- IP-ASN,146699,no-resolve # APNIC ASN block
+- IP-ASN,146698,no-resolve # APNIC ASN block
+- IP-ASN,146697,no-resolve # APNIC ASN block
+- IP-ASN,146696,no-resolve # APNIC ASN block
+- IP-ASN,146695,no-resolve # APNIC ASN block
+- IP-ASN,146694,no-resolve # APNIC ASN block
+- IP-ASN,146693,no-resolve # APNIC ASN block
+- IP-ASN,146692,no-resolve # APNIC ASN block
+- IP-ASN,146691,no-resolve # APNIC ASN block
+- IP-ASN,146690,no-resolve # APNIC ASN block
+- IP-ASN,146689,no-resolve # APNIC ASN block
+- IP-ASN,146688,no-resolve # APNIC ASN block
+- IP-ASN,146687,no-resolve # APNIC ASN block
+- IP-ASN,146686,no-resolve # APNIC ASN block
+- IP-ASN,146685,no-resolve # APNIC ASN block
+- IP-ASN,146684,no-resolve # APNIC ASN block
+- IP-ASN,146683,no-resolve # APNIC ASN block
+- IP-ASN,146682,no-resolve # APNIC ASN block
+- IP-ASN,146681,no-resolve # APNIC ASN block
+- IP-ASN,146680,no-resolve # APNIC ASN block
+- IP-ASN,146679,no-resolve # APNIC ASN block
+- IP-ASN,146678,no-resolve # APNIC ASN block
+- IP-ASN,146677,no-resolve # APNIC ASN block
+- IP-ASN,146676,no-resolve # APNIC ASN block
+- IP-ASN,146675,no-resolve # APNIC ASN block
+- IP-ASN,146674,no-resolve # APNIC ASN block
+- IP-ASN,146673,no-resolve # APNIC ASN block
+- IP-ASN,146672,no-resolve # APNIC ASN block
+- IP-ASN,146671,no-resolve # APNIC ASN block
+- IP-ASN,146670,no-resolve # APNIC ASN block
+- IP-ASN,146669,no-resolve # APNIC ASN block
+- IP-ASN,146668,no-resolve # APNIC ASN block
 - IP-ASN,146667,no-resolve # APNIC ASN block
-- IP-ASN,146666,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146665,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146664,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146663,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146662,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146661,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146660,no-resolve # China Education and Research Network (CERNET)
+- IP-ASN,146666,no-resolve # APNIC ASN block
+- IP-ASN,146665,no-resolve # APNIC ASN block
+- IP-ASN,146664,no-resolve # APNIC ASN block
+- IP-ASN,146663,no-resolve # APNIC ASN block
+- IP-ASN,146662,no-resolve # APNIC ASN block
+- IP-ASN,146661,no-resolve # APNIC ASN block
+- IP-ASN,146660,no-resolve # APNIC ASN block
 - IP-ASN,146659,no-resolve # APNIC ASN block
-- IP-ASN,146658,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146657,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146656,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146655,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146654,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146653,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146652,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146651,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146650,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146649,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146648,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146647,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146646,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146645,no-resolve # China Education and Research Network (CERNET)
+- IP-ASN,146658,no-resolve # APNIC ASN block
+- IP-ASN,146657,no-resolve # APNIC ASN block
+- IP-ASN,146656,no-resolve # APNIC ASN block
+- IP-ASN,146655,no-resolve # APNIC ASN block
+- IP-ASN,146654,no-resolve # APNIC ASN block
+- IP-ASN,146653,no-resolve # APNIC ASN block
+- IP-ASN,146652,no-resolve # APNIC ASN block
+- IP-ASN,146651,no-resolve # APNIC ASN block
+- IP-ASN,146650,no-resolve # APNIC ASN block
+- IP-ASN,146649,no-resolve # APNIC ASN block
+- IP-ASN,146648,no-resolve # APNIC ASN block
+- IP-ASN,146647,no-resolve # APNIC ASN block
+- IP-ASN,146646,no-resolve # APNIC ASN block
+- IP-ASN,146645,no-resolve # APNIC ASN block
 - IP-ASN,146644,no-resolve # APNIC ASN block
-- IP-ASN,146643,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146642,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146641,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146640,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146639,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146638,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146637,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146636,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146635,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146634,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146633,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146632,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146631,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146630,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146629,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146628,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146627,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146626,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146625,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146624,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146623,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146622,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146621,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146620,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146619,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146618,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146617,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146616,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146615,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146614,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146613,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146612,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146611,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146610,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146609,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146608,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146607,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146606,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146605,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146604,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146603,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146602,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146601,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146600,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146599,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146598,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146597,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146596,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146595,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146594,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146593,no-resolve # China Education and Research Network (CERNET)
+- IP-ASN,146643,no-resolve # APNIC ASN block
+- IP-ASN,146642,no-resolve # APNIC ASN block
+- IP-ASN,146641,no-resolve # APNIC ASN block
+- IP-ASN,146640,no-resolve # APNIC ASN block
+- IP-ASN,146639,no-resolve # APNIC ASN block
+- IP-ASN,146638,no-resolve # APNIC ASN block
+- IP-ASN,146637,no-resolve # APNIC ASN block
+- IP-ASN,146636,no-resolve # APNIC ASN block
+- IP-ASN,146635,no-resolve # APNIC ASN block
+- IP-ASN,146634,no-resolve # APNIC ASN block
+- IP-ASN,146633,no-resolve # APNIC ASN block
+- IP-ASN,146632,no-resolve # APNIC ASN block
+- IP-ASN,146631,no-resolve # APNIC ASN block
+- IP-ASN,146630,no-resolve # APNIC ASN block
+- IP-ASN,146629,no-resolve # APNIC ASN block
+- IP-ASN,146628,no-resolve # APNIC ASN block
+- IP-ASN,146627,no-resolve # APNIC ASN block
+- IP-ASN,146626,no-resolve # APNIC ASN block
+- IP-ASN,146625,no-resolve # APNIC ASN block
+- IP-ASN,146624,no-resolve # APNIC ASN block
+- IP-ASN,146623,no-resolve # APNIC ASN block
+- IP-ASN,146622,no-resolve # APNIC ASN block
+- IP-ASN,146621,no-resolve # APNIC ASN block
+- IP-ASN,146620,no-resolve # APNIC ASN block
+- IP-ASN,146619,no-resolve # APNIC ASN block
+- IP-ASN,146618,no-resolve # APNIC ASN block
+- IP-ASN,146617,no-resolve # APNIC ASN block
+- IP-ASN,146616,no-resolve # APNIC ASN block
+- IP-ASN,146615,no-resolve # APNIC ASN block
+- IP-ASN,146614,no-resolve # APNIC ASN block
+- IP-ASN,146613,no-resolve # APNIC ASN block
+- IP-ASN,146612,no-resolve # APNIC ASN block
+- IP-ASN,146611,no-resolve # APNIC ASN block
+- IP-ASN,146610,no-resolve # APNIC ASN block
+- IP-ASN,146609,no-resolve # APNIC ASN block
+- IP-ASN,146608,no-resolve # APNIC ASN block
+- IP-ASN,146607,no-resolve # APNIC ASN block
+- IP-ASN,146606,no-resolve # APNIC ASN block
+- IP-ASN,146605,no-resolve # APNIC ASN block
+- IP-ASN,146604,no-resolve # APNIC ASN block
+- IP-ASN,146603,no-resolve # APNIC ASN block
+- IP-ASN,146602,no-resolve # APNIC ASN block
+- IP-ASN,146601,no-resolve # APNIC ASN block
+- IP-ASN,146600,no-resolve # APNIC ASN block
+- IP-ASN,146599,no-resolve # APNIC ASN block
+- IP-ASN,146598,no-resolve # APNIC ASN block
+- IP-ASN,146597,no-resolve # APNIC ASN block
+- IP-ASN,146596,no-resolve # APNIC ASN block
+- IP-ASN,146595,no-resolve # APNIC ASN block
+- IP-ASN,146594,no-resolve # APNIC ASN block
+- IP-ASN,146593,no-resolve # APNIC ASN block
 - IP-ASN,146592,no-resolve # APNIC ASN block
-- IP-ASN,146591,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146590,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146589,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146588,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146587,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146586,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146585,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146584,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146583,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146582,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146581,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146580,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146579,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146578,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146577,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146576,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146575,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146574,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146573,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146572,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146571,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146570,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146569,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146568,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146567,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146566,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146565,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146564,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146563,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146562,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146561,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146560,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146559,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146558,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146557,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146556,no-resolve # China Education and Research Network (CERNET)
+- IP-ASN,146591,no-resolve # APNIC ASN block
+- IP-ASN,146590,no-resolve # APNIC ASN block
+- IP-ASN,146589,no-resolve # APNIC ASN block
+- IP-ASN,146588,no-resolve # APNIC ASN block
+- IP-ASN,146587,no-resolve # APNIC ASN block
+- IP-ASN,146586,no-resolve # APNIC ASN block
+- IP-ASN,146585,no-resolve # APNIC ASN block
+- IP-ASN,146584,no-resolve # APNIC ASN block
+- IP-ASN,146583,no-resolve # APNIC ASN block
+- IP-ASN,146582,no-resolve # APNIC ASN block
+- IP-ASN,146581,no-resolve # APNIC ASN block
+- IP-ASN,146580,no-resolve # APNIC ASN block
+- IP-ASN,146579,no-resolve # APNIC ASN block
+- IP-ASN,146578,no-resolve # APNIC ASN block
+- IP-ASN,146577,no-resolve # APNIC ASN block
+- IP-ASN,146576,no-resolve # APNIC ASN block
+- IP-ASN,146575,no-resolve # APNIC ASN block
+- IP-ASN,146574,no-resolve # APNIC ASN block
+- IP-ASN,146573,no-resolve # APNIC ASN block
+- IP-ASN,146572,no-resolve # APNIC ASN block
+- IP-ASN,146571,no-resolve # APNIC ASN block
+- IP-ASN,146570,no-resolve # APNIC ASN block
+- IP-ASN,146569,no-resolve # APNIC ASN block
+- IP-ASN,146568,no-resolve # APNIC ASN block
+- IP-ASN,146567,no-resolve # APNIC ASN block
+- IP-ASN,146566,no-resolve # APNIC ASN block
+- IP-ASN,146565,no-resolve # APNIC ASN block
+- IP-ASN,146564,no-resolve # APNIC ASN block
+- IP-ASN,146563,no-resolve # APNIC ASN block
+- IP-ASN,146562,no-resolve # APNIC ASN block
+- IP-ASN,146561,no-resolve # APNIC ASN block
+- IP-ASN,146560,no-resolve # APNIC ASN block
+- IP-ASN,146559,no-resolve # APNIC ASN block
+- IP-ASN,146558,no-resolve # APNIC ASN block
+- IP-ASN,146557,no-resolve # APNIC ASN block
+- IP-ASN,146556,no-resolve # APNIC ASN block
 - IP-ASN,146555,no-resolve # APNIC ASN block
-- IP-ASN,146554,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146553,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146552,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146551,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146550,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146549,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146548,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146547,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146546,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146545,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146544,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146543,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146542,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146541,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146540,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146539,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146538,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146537,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146536,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146535,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146534,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146533,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146532,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146531,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146530,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146529,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146528,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146527,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146526,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146525,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146524,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146523,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146522,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146521,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146520,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146519,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146518,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146517,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146516,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146515,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146514,no-resolve # China Education and Research Network (CERNET)
+- IP-ASN,146554,no-resolve # APNIC ASN block
+- IP-ASN,146553,no-resolve # APNIC ASN block
+- IP-ASN,146552,no-resolve # APNIC ASN block
+- IP-ASN,146551,no-resolve # APNIC ASN block
+- IP-ASN,146550,no-resolve # APNIC ASN block
+- IP-ASN,146549,no-resolve # APNIC ASN block
+- IP-ASN,146548,no-resolve # APNIC ASN block
+- IP-ASN,146547,no-resolve # APNIC ASN block
+- IP-ASN,146546,no-resolve # APNIC ASN block
+- IP-ASN,146545,no-resolve # APNIC ASN block
+- IP-ASN,146544,no-resolve # APNIC ASN block
+- IP-ASN,146543,no-resolve # APNIC ASN block
+- IP-ASN,146542,no-resolve # APNIC ASN block
+- IP-ASN,146541,no-resolve # APNIC ASN block
+- IP-ASN,146540,no-resolve # APNIC ASN block
+- IP-ASN,146539,no-resolve # APNIC ASN block
+- IP-ASN,146538,no-resolve # APNIC ASN block
+- IP-ASN,146537,no-resolve # APNIC ASN block
+- IP-ASN,146536,no-resolve # APNIC ASN block
+- IP-ASN,146535,no-resolve # APNIC ASN block
+- IP-ASN,146534,no-resolve # APNIC ASN block
+- IP-ASN,146533,no-resolve # APNIC ASN block
+- IP-ASN,146532,no-resolve # APNIC ASN block
+- IP-ASN,146531,no-resolve # APNIC ASN block
+- IP-ASN,146530,no-resolve # APNIC ASN block
+- IP-ASN,146529,no-resolve # APNIC ASN block
+- IP-ASN,146528,no-resolve # APNIC ASN block
+- IP-ASN,146527,no-resolve # APNIC ASN block
+- IP-ASN,146526,no-resolve # APNIC ASN block
+- IP-ASN,146525,no-resolve # APNIC ASN block
+- IP-ASN,146524,no-resolve # APNIC ASN block
+- IP-ASN,146523,no-resolve # APNIC ASN block
+- IP-ASN,146522,no-resolve # APNIC ASN block
+- IP-ASN,146521,no-resolve # APNIC ASN block
+- IP-ASN,146520,no-resolve # APNIC ASN block
+- IP-ASN,146519,no-resolve # APNIC ASN block
+- IP-ASN,146518,no-resolve # APNIC ASN block
+- IP-ASN,146517,no-resolve # APNIC ASN block
+- IP-ASN,146516,no-resolve # APNIC ASN block
+- IP-ASN,146515,no-resolve # APNIC ASN block
+- IP-ASN,146514,no-resolve # APNIC ASN block
 - IP-ASN,146513,no-resolve # APNIC ASN block
-- IP-ASN,146512,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146511,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146510,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146509,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146508,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146507,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146506,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146505,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146504,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146503,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146502,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146501,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146500,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146499,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146498,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146497,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146496,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146495,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146494,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146493,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146492,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146491,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146490,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146489,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146488,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146487,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146486,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146485,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146484,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146483,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146482,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146481,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146480,no-resolve # China Education and Research Network (CERNET)
+- IP-ASN,146512,no-resolve # APNIC ASN block
+- IP-ASN,146511,no-resolve # APNIC ASN block
+- IP-ASN,146510,no-resolve # APNIC ASN block
+- IP-ASN,146509,no-resolve # APNIC ASN block
+- IP-ASN,146508,no-resolve # APNIC ASN block
+- IP-ASN,146507,no-resolve # APNIC ASN block
+- IP-ASN,146506,no-resolve # APNIC ASN block
+- IP-ASN,146505,no-resolve # APNIC ASN block
+- IP-ASN,146504,no-resolve # APNIC ASN block
+- IP-ASN,146503,no-resolve # APNIC ASN block
+- IP-ASN,146502,no-resolve # APNIC ASN block
+- IP-ASN,146501,no-resolve # APNIC ASN block
+- IP-ASN,146500,no-resolve # APNIC ASN block
+- IP-ASN,146499,no-resolve # APNIC ASN block
+- IP-ASN,146498,no-resolve # APNIC ASN block
+- IP-ASN,146497,no-resolve # APNIC ASN block
+- IP-ASN,146496,no-resolve # APNIC ASN block
+- IP-ASN,146495,no-resolve # APNIC ASN block
+- IP-ASN,146494,no-resolve # APNIC ASN block
+- IP-ASN,146493,no-resolve # APNIC ASN block
+- IP-ASN,146492,no-resolve # APNIC ASN block
+- IP-ASN,146491,no-resolve # APNIC ASN block
+- IP-ASN,146490,no-resolve # APNIC ASN block
+- IP-ASN,146489,no-resolve # APNIC ASN block
+- IP-ASN,146488,no-resolve # APNIC ASN block
+- IP-ASN,146487,no-resolve # APNIC ASN block
+- IP-ASN,146486,no-resolve # APNIC ASN block
+- IP-ASN,146485,no-resolve # APNIC ASN block
+- IP-ASN,146484,no-resolve # APNIC ASN block
+- IP-ASN,146483,no-resolve # APNIC ASN block
+- IP-ASN,146482,no-resolve # APNIC ASN block
+- IP-ASN,146481,no-resolve # APNIC ASN block
+- IP-ASN,146480,no-resolve # APNIC ASN block
 - IP-ASN,146479,no-resolve # APNIC ASN block
-- IP-ASN,146478,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146477,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146476,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146475,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146474,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146473,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146472,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146471,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146470,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146469,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146468,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146467,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146466,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146465,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146464,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146463,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146462,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146461,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146460,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146459,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146458,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146457,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146456,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146455,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146454,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146453,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146452,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146451,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146450,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146449,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146448,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146447,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146446,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146445,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146444,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146443,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146442,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146441,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146440,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146439,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146438,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146437,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146436,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146435,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146434,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146433,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146432,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146431,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146430,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146429,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146428,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146427,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146426,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146425,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146424,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146423,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146422,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146421,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146420,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146419,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146418,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146417,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146416,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146415,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146414,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146413,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146412,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146411,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146410,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146409,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146408,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146407,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146406,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146405,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146404,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146403,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146402,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146401,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146400,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146399,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146398,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146397,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146396,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146395,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146394,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146393,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146392,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146391,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146390,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146389,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146388,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146387,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146386,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146385,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146384,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146383,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146382,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146381,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146380,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146379,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146378,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146377,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146376,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146375,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146374,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146373,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146372,no-resolve # China Education and Research Network (CERNET)
+- IP-ASN,146478,no-resolve # APNIC ASN block
+- IP-ASN,146477,no-resolve # APNIC ASN block
+- IP-ASN,146476,no-resolve # APNIC ASN block
+- IP-ASN,146475,no-resolve # APNIC ASN block
+- IP-ASN,146474,no-resolve # APNIC ASN block
+- IP-ASN,146473,no-resolve # APNIC ASN block
+- IP-ASN,146472,no-resolve # APNIC ASN block
+- IP-ASN,146471,no-resolve # APNIC ASN block
+- IP-ASN,146470,no-resolve # APNIC ASN block
+- IP-ASN,146469,no-resolve # APNIC ASN block
+- IP-ASN,146468,no-resolve # APNIC ASN block
+- IP-ASN,146467,no-resolve # APNIC ASN block
+- IP-ASN,146466,no-resolve # APNIC ASN block
+- IP-ASN,146465,no-resolve # APNIC ASN block
+- IP-ASN,146464,no-resolve # APNIC ASN block
+- IP-ASN,146463,no-resolve # APNIC ASN block
+- IP-ASN,146462,no-resolve # APNIC ASN block
+- IP-ASN,146461,no-resolve # APNIC ASN block
+- IP-ASN,146460,no-resolve # APNIC ASN block
+- IP-ASN,146459,no-resolve # APNIC ASN block
+- IP-ASN,146458,no-resolve # APNIC ASN block
+- IP-ASN,146457,no-resolve # APNIC ASN block
+- IP-ASN,146456,no-resolve # APNIC ASN block
+- IP-ASN,146455,no-resolve # APNIC ASN block
+- IP-ASN,146454,no-resolve # APNIC ASN block
+- IP-ASN,146453,no-resolve # APNIC ASN block
+- IP-ASN,146452,no-resolve # APNIC ASN block
+- IP-ASN,146451,no-resolve # APNIC ASN block
+- IP-ASN,146450,no-resolve # APNIC ASN block
+- IP-ASN,146449,no-resolve # APNIC ASN block
+- IP-ASN,146448,no-resolve # APNIC ASN block
+- IP-ASN,146447,no-resolve # APNIC ASN block
+- IP-ASN,146446,no-resolve # APNIC ASN block
+- IP-ASN,146445,no-resolve # APNIC ASN block
+- IP-ASN,146444,no-resolve # APNIC ASN block
+- IP-ASN,146443,no-resolve # APNIC ASN block
+- IP-ASN,146442,no-resolve # APNIC ASN block
+- IP-ASN,146441,no-resolve # APNIC ASN block
+- IP-ASN,146440,no-resolve # APNIC ASN block
+- IP-ASN,146439,no-resolve # APNIC ASN block
+- IP-ASN,146438,no-resolve # APNIC ASN block
+- IP-ASN,146437,no-resolve # APNIC ASN block
+- IP-ASN,146436,no-resolve # APNIC ASN block
+- IP-ASN,146435,no-resolve # APNIC ASN block
+- IP-ASN,146434,no-resolve # APNIC ASN block
+- IP-ASN,146433,no-resolve # APNIC ASN block
+- IP-ASN,146432,no-resolve # APNIC ASN block
+- IP-ASN,146431,no-resolve # APNIC ASN block
+- IP-ASN,146430,no-resolve # APNIC ASN block
+- IP-ASN,146429,no-resolve # APNIC ASN block
+- IP-ASN,146428,no-resolve # APNIC ASN block
+- IP-ASN,146427,no-resolve # APNIC ASN block
+- IP-ASN,146426,no-resolve # APNIC ASN block
+- IP-ASN,146425,no-resolve # APNIC ASN block
+- IP-ASN,146424,no-resolve # APNIC ASN block
+- IP-ASN,146423,no-resolve # APNIC ASN block
+- IP-ASN,146422,no-resolve # APNIC ASN block
+- IP-ASN,146421,no-resolve # APNIC ASN block
+- IP-ASN,146420,no-resolve # APNIC ASN block
+- IP-ASN,146419,no-resolve # APNIC ASN block
+- IP-ASN,146418,no-resolve # APNIC ASN block
+- IP-ASN,146417,no-resolve # APNIC ASN block
+- IP-ASN,146416,no-resolve # APNIC ASN block
+- IP-ASN,146415,no-resolve # APNIC ASN block
+- IP-ASN,146414,no-resolve # APNIC ASN block
+- IP-ASN,146413,no-resolve # APNIC ASN block
+- IP-ASN,146412,no-resolve # APNIC ASN block
+- IP-ASN,146411,no-resolve # APNIC ASN block
+- IP-ASN,146410,no-resolve # APNIC ASN block
+- IP-ASN,146409,no-resolve # APNIC ASN block
+- IP-ASN,146408,no-resolve # APNIC ASN block
+- IP-ASN,146407,no-resolve # APNIC ASN block
+- IP-ASN,146406,no-resolve # APNIC ASN block
+- IP-ASN,146405,no-resolve # APNIC ASN block
+- IP-ASN,146404,no-resolve # APNIC ASN block
+- IP-ASN,146403,no-resolve # APNIC ASN block
+- IP-ASN,146402,no-resolve # APNIC ASN block
+- IP-ASN,146401,no-resolve # APNIC ASN block
+- IP-ASN,146400,no-resolve # APNIC ASN block
+- IP-ASN,146399,no-resolve # APNIC ASN block
+- IP-ASN,146398,no-resolve # APNIC ASN block
+- IP-ASN,146397,no-resolve # APNIC ASN block
+- IP-ASN,146396,no-resolve # APNIC ASN block
+- IP-ASN,146395,no-resolve # APNIC ASN block
+- IP-ASN,146394,no-resolve # APNIC ASN block
+- IP-ASN,146393,no-resolve # APNIC ASN block
+- IP-ASN,146392,no-resolve # APNIC ASN block
+- IP-ASN,146391,no-resolve # APNIC ASN block
+- IP-ASN,146390,no-resolve # APNIC ASN block
+- IP-ASN,146389,no-resolve # APNIC ASN block
+- IP-ASN,146388,no-resolve # APNIC ASN block
+- IP-ASN,146387,no-resolve # APNIC ASN block
+- IP-ASN,146386,no-resolve # APNIC ASN block
+- IP-ASN,146385,no-resolve # APNIC ASN block
+- IP-ASN,146384,no-resolve # APNIC ASN block
+- IP-ASN,146383,no-resolve # APNIC ASN block
+- IP-ASN,146382,no-resolve # APNIC ASN block
+- IP-ASN,146381,no-resolve # APNIC ASN block
+- IP-ASN,146380,no-resolve # APNIC ASN block
+- IP-ASN,146379,no-resolve # APNIC ASN block
+- IP-ASN,146378,no-resolve # APNIC ASN block
+- IP-ASN,146377,no-resolve # APNIC ASN block
+- IP-ASN,146376,no-resolve # APNIC ASN block
+- IP-ASN,146375,no-resolve # APNIC ASN block
+- IP-ASN,146374,no-resolve # APNIC ASN block
+- IP-ASN,146373,no-resolve # APNIC ASN block
+- IP-ASN,146372,no-resolve # APNIC ASN block
 - IP-ASN,146371,no-resolve # APNIC ASN block
-- IP-ASN,146370,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146369,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146368,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146367,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146366,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146365,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146364,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146363,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146362,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146361,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146360,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146359,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146358,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146357,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146356,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146355,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146354,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146353,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146352,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146351,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146350,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146349,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146348,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146347,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146346,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146345,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146344,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146343,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146342,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146341,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146340,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146339,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146338,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146337,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146336,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146335,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146334,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146333,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146332,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146331,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146330,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146329,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146328,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146327,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146326,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146325,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146324,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146323,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146322,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146321,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146320,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146319,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146318,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146317,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146316,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146315,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146314,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146313,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146312,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146311,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146310,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146309,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146308,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146307,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146306,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146305,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146304,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146303,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146302,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146301,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146300,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146299,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146298,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146297,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146296,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146295,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146294,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146293,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146292,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146291,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146290,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146289,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146288,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146287,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146286,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146285,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146284,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146283,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146282,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146281,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146280,no-resolve # China Education and Research Network (CERNET)
+- IP-ASN,146370,no-resolve # APNIC ASN block
+- IP-ASN,146369,no-resolve # APNIC ASN block
+- IP-ASN,146368,no-resolve # APNIC ASN block
+- IP-ASN,146367,no-resolve # APNIC ASN block
+- IP-ASN,146366,no-resolve # APNIC ASN block
+- IP-ASN,146365,no-resolve # APNIC ASN block
+- IP-ASN,146364,no-resolve # APNIC ASN block
+- IP-ASN,146363,no-resolve # APNIC ASN block
+- IP-ASN,146362,no-resolve # APNIC ASN block
+- IP-ASN,146361,no-resolve # APNIC ASN block
+- IP-ASN,146360,no-resolve # APNIC ASN block
+- IP-ASN,146359,no-resolve # APNIC ASN block
+- IP-ASN,146358,no-resolve # APNIC ASN block
+- IP-ASN,146357,no-resolve # APNIC ASN block
+- IP-ASN,146356,no-resolve # APNIC ASN block
+- IP-ASN,146355,no-resolve # APNIC ASN block
+- IP-ASN,146354,no-resolve # APNIC ASN block
+- IP-ASN,146353,no-resolve # APNIC ASN block
+- IP-ASN,146352,no-resolve # APNIC ASN block
+- IP-ASN,146351,no-resolve # APNIC ASN block
+- IP-ASN,146350,no-resolve # APNIC ASN block
+- IP-ASN,146349,no-resolve # APNIC ASN block
+- IP-ASN,146348,no-resolve # APNIC ASN block
+- IP-ASN,146347,no-resolve # APNIC ASN block
+- IP-ASN,146346,no-resolve # APNIC ASN block
+- IP-ASN,146345,no-resolve # APNIC ASN block
+- IP-ASN,146344,no-resolve # APNIC ASN block
+- IP-ASN,146343,no-resolve # APNIC ASN block
+- IP-ASN,146342,no-resolve # APNIC ASN block
+- IP-ASN,146341,no-resolve # APNIC ASN block
+- IP-ASN,146340,no-resolve # APNIC ASN block
+- IP-ASN,146339,no-resolve # APNIC ASN block
+- IP-ASN,146338,no-resolve # APNIC ASN block
+- IP-ASN,146337,no-resolve # APNIC ASN block
+- IP-ASN,146336,no-resolve # APNIC ASN block
+- IP-ASN,146335,no-resolve # APNIC ASN block
+- IP-ASN,146334,no-resolve # APNIC ASN block
+- IP-ASN,146333,no-resolve # APNIC ASN block
+- IP-ASN,146332,no-resolve # APNIC ASN block
+- IP-ASN,146331,no-resolve # APNIC ASN block
+- IP-ASN,146330,no-resolve # APNIC ASN block
+- IP-ASN,146329,no-resolve # APNIC ASN block
+- IP-ASN,146328,no-resolve # APNIC ASN block
+- IP-ASN,146327,no-resolve # APNIC ASN block
+- IP-ASN,146326,no-resolve # APNIC ASN block
+- IP-ASN,146325,no-resolve # APNIC ASN block
+- IP-ASN,146324,no-resolve # APNIC ASN block
+- IP-ASN,146323,no-resolve # APNIC ASN block
+- IP-ASN,146322,no-resolve # APNIC ASN block
+- IP-ASN,146321,no-resolve # APNIC ASN block
+- IP-ASN,146320,no-resolve # APNIC ASN block
+- IP-ASN,146319,no-resolve # APNIC ASN block
+- IP-ASN,146318,no-resolve # APNIC ASN block
+- IP-ASN,146317,no-resolve # APNIC ASN block
+- IP-ASN,146316,no-resolve # APNIC ASN block
+- IP-ASN,146315,no-resolve # APNIC ASN block
+- IP-ASN,146314,no-resolve # APNIC ASN block
+- IP-ASN,146313,no-resolve # APNIC ASN block
+- IP-ASN,146312,no-resolve # APNIC ASN block
+- IP-ASN,146311,no-resolve # APNIC ASN block
+- IP-ASN,146310,no-resolve # APNIC ASN block
+- IP-ASN,146309,no-resolve # APNIC ASN block
+- IP-ASN,146308,no-resolve # APNIC ASN block
+- IP-ASN,146307,no-resolve # APNIC ASN block
+- IP-ASN,146306,no-resolve # APNIC ASN block
+- IP-ASN,146305,no-resolve # APNIC ASN block
+- IP-ASN,146304,no-resolve # APNIC ASN block
+- IP-ASN,146303,no-resolve # APNIC ASN block
+- IP-ASN,146302,no-resolve # APNIC ASN block
+- IP-ASN,146301,no-resolve # APNIC ASN block
+- IP-ASN,146300,no-resolve # APNIC ASN block
+- IP-ASN,146299,no-resolve # APNIC ASN block
+- IP-ASN,146298,no-resolve # APNIC ASN block
+- IP-ASN,146297,no-resolve # APNIC ASN block
+- IP-ASN,146296,no-resolve # APNIC ASN block
+- IP-ASN,146295,no-resolve # APNIC ASN block
+- IP-ASN,146294,no-resolve # APNIC ASN block
+- IP-ASN,146293,no-resolve # APNIC ASN block
+- IP-ASN,146292,no-resolve # APNIC ASN block
+- IP-ASN,146291,no-resolve # APNIC ASN block
+- IP-ASN,146290,no-resolve # APNIC ASN block
+- IP-ASN,146289,no-resolve # APNIC ASN block
+- IP-ASN,146288,no-resolve # APNIC ASN block
+- IP-ASN,146287,no-resolve # APNIC ASN block
+- IP-ASN,146286,no-resolve # APNIC ASN block
+- IP-ASN,146285,no-resolve # APNIC ASN block
+- IP-ASN,146284,no-resolve # APNIC ASN block
+- IP-ASN,146283,no-resolve # APNIC ASN block
+- IP-ASN,146282,no-resolve # APNIC ASN block
+- IP-ASN,146281,no-resolve # APNIC ASN block
+- IP-ASN,146280,no-resolve # APNIC ASN block
 - IP-ASN,146279,no-resolve # APNIC ASN block
-- IP-ASN,146278,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146277,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146276,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146275,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146274,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146273,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146272,no-resolve # China Education and Research Network (CERNET)
+- IP-ASN,146278,no-resolve # APNIC ASN block
+- IP-ASN,146277,no-resolve # APNIC ASN block
+- IP-ASN,146276,no-resolve # APNIC ASN block
+- IP-ASN,146275,no-resolve # APNIC ASN block
+- IP-ASN,146274,no-resolve # APNIC ASN block
+- IP-ASN,146273,no-resolve # APNIC ASN block
+- IP-ASN,146272,no-resolve # APNIC ASN block
 - IP-ASN,146271,no-resolve # China Education and Research Network (CERNET)
 - IP-ASN,146270,no-resolve # APNIC ASN block
-- IP-ASN,146269,no-resolve # China Education and Research Network (CERNET)
+- IP-ASN,146269,no-resolve # APNIC ASN block
 - IP-ASN,146268,no-resolve # China Education and Research Network (CERNET)
 - IP-ASN,146267,no-resolve # China Education and Research Network (CERNET)
 - IP-ASN,146266,no-resolve # China Education and Research Network (CERNET)
 - IP-ASN,146265,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146264,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146263,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146262,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146261,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146260,no-resolve # China Education and Research Network (CERNET)
+- IP-ASN,146264,no-resolve # APNIC ASN block
+- IP-ASN,146263,no-resolve # APNIC ASN block
+- IP-ASN,146262,no-resolve # APNIC ASN block
+- IP-ASN,146261,no-resolve # APNIC ASN block
+- IP-ASN,146260,no-resolve # APNIC ASN block
 - IP-ASN,146259,no-resolve # APNIC ASN block
 - IP-ASN,146258,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146257,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146256,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146255,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146254,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146253,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146252,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146251,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146250,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146249,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146248,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146247,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146246,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146245,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146244,no-resolve # China Education and Research Network (CERNET)
-- IP-ASN,146243,no-resolve # China Education and Research Network (CERNET)
+- IP-ASN,146257,no-resolve # APNIC ASN block
+- IP-ASN,146256,no-resolve # APNIC ASN block
+- IP-ASN,146255,no-resolve # APNIC ASN block
+- IP-ASN,146254,no-resolve # APNIC ASN block
+- IP-ASN,146253,no-resolve # APNIC ASN block
+- IP-ASN,146252,no-resolve # APNIC ASN block
+- IP-ASN,146251,no-resolve # APNIC ASN block
+- IP-ASN,146250,no-resolve # APNIC ASN block
+- IP-ASN,146249,no-resolve # APNIC ASN block
+- IP-ASN,146248,no-resolve # APNIC ASN block
+- IP-ASN,146247,no-resolve # APNIC ASN block
+- IP-ASN,146246,no-resolve # APNIC ASN block
+- IP-ASN,146245,no-resolve # APNIC ASN block
+- IP-ASN,146244,no-resolve # APNIC ASN block
+- IP-ASN,146243,no-resolve # APNIC ASN block
 - IP-ASN,146242,no-resolve # APNIC ASN block
 - IP-ASN,146241,no-resolve # APNIC ASN block
 - IP-ASN,146240,no-resolve # APNIC ASN block
@@ -5211,7 +5211,6 @@ payload:
 - IP-ASN,136591,no-resolve # MxxCloud LLC
 - IP-ASN,136535,no-resolve # Yang Mengqi
 - IP-ASN,136199,no-resolve # CHINANET Guangdong province Yuedong MAN network
-- IP-ASN,134993,no-resolve # APNIC ASN block
 - IP-ASN,134775,no-resolve # CHINANET Guangdong province Zhusanjiao MAN network
 - IP-ASN,134488,no-resolve # CTJ's Global Network
 - IP-ASN,134477,no-resolve # Shaoxing Junruiyunjisuan Co Ltd
