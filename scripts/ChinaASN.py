@@ -33,7 +33,7 @@ def saveLatestASN():
         asnNumber = asn.xpath('td[1]/a')[0].text.replace('AS','')
         asnName = asn.xpath('td[2]')[0].text
         if asnName != None:
-            asnInfo = "- IP-ASN,{},no-resolve # {}".format(asnNumber, asnName)
+            asnInfo = "- IP-ASN,{}#{}".format(asnNumber, asnName)
             with open("ASN.China.list", "a") as asnFile:
                 asnFile.write(asnInfo)
                 asnFile.write("\n")
