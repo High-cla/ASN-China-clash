@@ -1,4 +1,4 @@
-'''
+"""
 Author: Vincent Young
 Date: 2022-11-17 02:14:24
 LastEditors: Vincent Young
@@ -6,25 +6,47 @@ LastEditTime: 2022-11-17 03:19:20
 FilePath: /ASN-China/syncIP.py
 Telegram: https://t.me/missuo
 
-Copyright © 2022 by Vincent, All Rights Reserved. 
-'''
+Copyright © 2022 by Vincent, All Rights Reserved.
+
+Download China IP lists from cbuijs/ipasn and save to files.
+"""
+
+import sys
+from typing import NoReturn
 
 import requests
 
-allChina = "https://raw.githubusercontent.com/cbuijs/ipasn/master/country-asia-china.list"
+# URL constants
+ALL_CHINA_URL: str = "https://raw.githubusercontent.com/cbuijs/ipasn/master/country-asia-china.list"
+V4_CHINA_URL: str = "https://raw.githubusercontent.com/cbuijs/ipasn/master/country-asia-china4.list"
+V6_CHINA_URL: str = "https://raw.githubusercontent.com/cbuijs/ipasn/master/country-asia-china6.list"
 
-v4China = "https://raw.githubusercontent.com/cbuijs/ipasn/master/country-asia-china4.list"
+# Output file names
+ALL_CHINA_FILE: str = "IP.China.list"
+V4_CHINA_FILE: str = "IPv4.China.list"
+V6_CHINA_FILE: str = "IPv6.China.list"
 
-v6China = "https://raw.githubusercontent.com/cbuijs/ipasn/master/country-asia-china6.list"
+REQUEST_TIMEOUT: int = 30
 
-r = requests.get(allChina) 
-with open("IP.China.list", "wb") as allChinaIP:
-         allChinaIP.write(r.content)
 
-r = requests.get(v4China) 
-with open("IPv4.China.list", "wb") as v4ChinaIP:
-         v4ChinaIP.write(r.content)
+def download_file(url: str, output_path: str) -> None:
+    """Download a file from the given URL and save it to output_path."""
+    try:
+        r = requests.get(url, timeout=REQUEST_TIMEOUT)
+        r.raise_for_status()
+        with open(output_path, "wb") as f:
+            f.write(r.content)
+        print(f"Downloaded: {output_path}")
+    except requests.RequestException as e:
+        print(f"Error downloading {url}: {e}", file=sys.stderr)
 
-r = requests.get(v6China) 
-with open("IPv6.China.list", "wb") as v6ChinaIP:
-         v6ChinaIP.write(r.content)
+
+def main() -> None:
+    """Download all China IP lists."""
+    download_file(ALL_CHINA_URL, ALL_CHINA_FILE)
+    download_file(V4_CHINA_URL, V4_CHINA_FILE)
+    download_file(V6_CHINA_URL, V6_CHINA_FILE)
+
+
+if __name__ == "__main__":
+    main()
