@@ -73,7 +73,7 @@ def save_latest_asn() -> None:
     init_file()
     with open(OUTPUT_FILE, "a", encoding="utf-8") as asn_file:
         for asn_number, asn_name in asn_data:
-            asn_info: str = f"- IP-ASN,{asn_number}#{asn_name}"
+            asn_info: str = f"- IP-ASN,{asn_number}"
             asn_file.write(asn_info + "\n")
 
     print(f"Successfully wrote {len(asn_data)} ASN entries to {OUTPUT_FILE}")
