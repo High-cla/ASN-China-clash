@@ -1,43 +1,45 @@
 name: Update ASN and IP List
 
-on: 
+on:
   push:
   workflow_dispatch:
   schedule:
     - cron: "0 16 * * *"
 
 jobs:
-  build: 
+  build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
+
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
+
       - name: Cache pip
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Download data (parallel)
-        run: |
-          python scripts/ChinaIP.py &
-          python scripts/ChinaASN.py &
-          wait
-      - name: Convert formats
+          pip install lxml
+
+      - name: Fetch ASN
+        run: python scripts/ChinaASN.py
+
+      - name: Fetch IP and convert formats
         run: python scripts/convert_formats.py
-      - name: Validate output
-        run: |
-          echo "=== File sizes ==="
-          wc -l *.list *.txt *.yaml
-          echo "=== YAML sanity check ==="
-          head -5 IP.China.yaml
+
+      - name: Validate outputs
+        run: python scripts/validate_outputs.py
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update IP/ASN lists [automated]"
+          file_pattern: "ASN.China.list IP.China.txt IP.China.yaml IP.China.ipv4.yaml IP.China.ipv6.yaml"
+          push_options: "--force"
