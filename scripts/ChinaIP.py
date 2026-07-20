@@ -4,12 +4,9 @@ from __future__ import annotations
 import ipaddress
 import os
 import sys
-from pathlib import Path
 from typing import Iterable
 
 import requests
-
-sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 DEFAULT_IP_SOURCES: list[str] = [
     "https://raw.githubusercontent.com/cbuijs/ipasn/master/country-asia-china.list",
@@ -32,8 +29,8 @@ def ip_sources() -> list[str]:
     return [u.strip() for u in raw.split(",") if u.strip()]
 
 
-def parse_cidr_lines(lines: Iterable[str]) -> list[ipaddress._BaseNetwork]:
-    nets: list[ipaddress._BaseNetwork] = []
+def parse_cidr_lines(lines: Iterable[str]) -> list[ipaddress.IPv4Network | ipaddress.IPv6Network]:
+    nets: list[ipaddress.IPv4Network | ipaddress.IPv6Network] = []
     for line in lines:
         s = line.strip()
         if not s or s.startswith("#"):
@@ -45,7 +42,7 @@ def parse_cidr_lines(lines: Iterable[str]) -> list[ipaddress._BaseNetwork]:
     return nets
 
 
-def collapse_cidrs(nets: list[ipaddress._BaseNetwork]) -> list[str]:
+def collapse_cidrs(nets: list[ipaddress.IPv4Network | ipaddress.IPv6Network]) -> list[str]:
     if not nets:
         return []
     collapsed = ipaddress.collapse_addresses(nets)
