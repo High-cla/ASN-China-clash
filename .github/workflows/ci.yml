@@ -42,3 +42,4 @@ jobs:
         with:
           commit_message: "chore: update IP/ASN lists [automated]"
           file_pattern: "ASN.China.list IP.China.txt IP.China.yaml IP.China.ipv4.yaml IP.China.ipv6.yaml"
+          push_options: "--force"
