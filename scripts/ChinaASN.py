@@ -104,10 +104,10 @@ def collect_asns() -> list[tuple[int, str]]:
 
 
 def render(asns: list[tuple[int, str]]) -> str:
-    local_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+    utc_time = time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime())
     lines = [
         "# ASN Information in China. (https://github.com/High-cla/ASN-China-clash)",
-        f"# Last Updated: UTC {local_time}",
+        f"# Last Updated: UTC {utc_time}",
         "# Made by Vincent / High-cla fork. All rights reserved.",
         "payload:",
     ]
