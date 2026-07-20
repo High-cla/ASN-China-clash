@@ -76,9 +76,18 @@ def fetch_and_collapse() -> list[str]:
     if ok == 0:
         print("All IP sources failed", file=sys.stderr)
         return []
-    before = parse_cidr_lines(raw_lines)
-    after = collapse_cidrs(before)
-    print(f"IP: sources_ok={ok} before_collapse={len(before)} after_collapse={len(after)}")
+    nets = parse_cidr_lines(raw_lines)
+    v4 = [n for n in nets if n.version == 4]
+    v6 = [n for n in nets if n.version == 6]
+    collapsed_v4 = collapse_cidrs(v4)
+    collapsed_v6 = collapse_cidrs(v6)
+    after = collapsed_v4 + collapsed_v6
+    print(
+        f"IP: sources_ok={ok} before_collapse={len(nets)} "
+        f"(v4={len(v4)} v6={len(v6)}) "
+        f"after_collapse={len(after)}"
+        f"(v4={len(collapsed_v4)} v6={len(collapsed_v6)})"
+    )
     return after
 
 
