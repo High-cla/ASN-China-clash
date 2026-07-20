@@ -85,7 +85,7 @@ def fetch_and_collapse() -> list[str]:
     print(
         f"IP: sources_ok={ok} before_collapse={len(nets)} "
         f"(v4={len(v4)} v6={len(v6)}) "
-        f"after_collapse={len(after)}"
+        f"after_collapse={len(after)} "
         f"(v4={len(collapsed_v4)} v6={len(collapsed_v6)})"
     )
     return after
