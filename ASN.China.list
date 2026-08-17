@@ -1,5 +1,5 @@
 # ASN Information in China. (https://github.com/High-cla/ASN-China-clash)
-# Last Updated: UTC 2026-08-16 16:10:24
+# Last Updated: UTC 2026-08-17 16:12:56
 # Made by Vincent / High-cla fork. All rights reserved.
 payload:
 - IP-ASN,4134
@@ -5210,6 +5210,7 @@ payload:
 - IP-ASN,216224
 - IP-ASN,216299
 - IP-ASN,216412
+- IP-ASN,218985
 - IP-ASN,219078
 - IP-ASN,219207
 - IP-ASN,219208
