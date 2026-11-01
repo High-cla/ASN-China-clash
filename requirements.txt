@@ -1,1 +1,4 @@
-requests==2.32.3
+# Direct runtime dependencies (pinned for reproducible CI and local runs).
+requests==2.34.2
+urllib3==2.8.0
+lxml==6.1.3

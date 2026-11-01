@@ -11,6 +11,7 @@ import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from atomic_write import atomic_write  # noqa: E402
+from http_client import SESSION  # noqa: E402
 
 DEFAULT_ASN_URLS = ["https://bgp.he.net/country/CN"]
 OUTPUT_FILE = "ASN.China.list"
@@ -75,7 +76,7 @@ def dedupe_sort(rows: list[tuple[int, str]]) -> list[tuple[int, str]]:
 
 def fetch_html(url: str) -> str | None:
     try:
-        r = requests.get(
+        r = SESSION.get(
             url,
             timeout=REQUEST_TIMEOUT,
             headers={"User-Agent": USER_AGENT},
