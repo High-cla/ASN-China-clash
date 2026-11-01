@@ -74,6 +74,15 @@ python scripts/validate_outputs.py
 
 Env: `REQUEST_TIMEOUT`, `USER_AGENT`, `MIN_ASN_COUNT` (default 100), `MIN_CIDR_COUNT` (default 1000).
 
+## Upstream synchronization policy
+
+This repository tracks [missuo/ASN-China](https://github.com/missuo/ASN-China), but intentionally keeps its China-focused Clash/Mihomo generation pipeline.
+
+- Keep `scripts/ChinaASN.py` and `scripts/ChinaIP.py` as the maintained fetch/normalization layer; do not replace them wholesale with the upstream legacy scripts.
+- Generate `ASN.China.list` and all Clash/Mihomo text/YAML artifacts through this fork's scripts. Do not manually patch generated lists or copy upstream list files over them.
+- Keep `scripts/convert_formats.py`, `scripts/atomic_write.py`, `scripts/validate_outputs.py`, tests, and the validation workflow as fork-specific functionality.
+- Upstream-only US ASN artifacts (`ASN.US.list` and `scripts/ASN_US.py`) are intentionally out of scope for this China-only repository.
+
 ## License
 
 MIT (see [LICENSE](./LICENSE)). Original work (c) Vincent Young / missuo; this fork maintains Clash-oriented tooling.
