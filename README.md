@@ -5,7 +5,7 @@ High-cla fork of [missuo/ASN-China](https://github.com/missuo/ASN-China): daily 
 ## Features
 
 - Daily GitHub Actions update (UTC 16:00 schedule + manual dispatch)
-- ASN from bgp.he.net (regex + optional lxml fallback, multi-URL via `ASN_URLS`)
+- ASN from bgp.he.net (regex with lxml parser fallback, multi-URL via `ASN_URLS`)
 - IP from cbuijs/ipasn (multi-source **union**, `ipaddress` collapse; `IP_SOURCES` overridable)
 - Outputs: `ASN.China.list`, `IP.China.txt`, `IP.China.yaml`, `IP.China.ipv4.yaml`, `IP.China.ipv6.yaml`
 - Empty/partial results are **not** committed (`validate_outputs.py`)
