@@ -2,6 +2,7 @@ name: Update ASN and IP List
 
 on:
   push:
+  pull_request:
   workflow_dispatch:
   schedule:
     - cron: "0 16 * * *"
@@ -29,6 +30,12 @@ jobs:
           pip install -r requirements.txt
           pip install lxml
 
+      - name: Compile Python sources
+        run: python -m compileall -q scripts tests
+
+      - name: Run unit tests
+        run: python tests/test_collapse.py
+
       - name: Fetch ASN
         run: python scripts/ChinaASN.py
 
@@ -38,8 +45,9 @@ jobs:
       - name: Validate outputs
         run: python scripts/validate_outputs.py
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Commit generated outputs
+        if: github.event_name != 'pull_request'
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update IP/ASN lists [automated]"
           file_pattern: "ASN.China.list IP.China.txt IP.China.yaml IP.China.ipv4.yaml IP.China.ipv6.yaml"
-          push_options: "--force"
