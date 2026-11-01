@@ -4,9 +4,13 @@ from __future__ import annotations
 import ipaddress
 import os
 import sys
+from pathlib import Path
 from typing import Iterable
 
 import requests
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from http_client import SESSION  # noqa: E402
 
 DEFAULT_IP_SOURCES: list[str] = [
     "https://raw.githubusercontent.com/cbuijs/ipasn/master/country-asia-china.list",
@@ -51,7 +55,7 @@ def collapse_cidrs(nets: list[ipaddress.IPv4Network | ipaddress.IPv6Network]) ->
 
 def fetch_url(url: str) -> str | None:
     try:
-        r = requests.get(
+        r = SESSION.get(
             url,
             timeout=REQUEST_TIMEOUT,
             headers={"User-Agent": USER_AGENT},
